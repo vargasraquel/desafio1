@@ -26,3 +26,12 @@ O projeto estará reduzido e os nomes dos arquivos incluem os hashes.
 Seu projeto está pronto para ser implantado!
 
 Para implantação, basta carregar o conteúdo da pasta `build` para uma plataforma de hospedagem, como [surge.sh](https://surge.sh/) ou [Netlify](https://www.netlify.com/).
+
+## Utilizando o Docker
+
+Como alternativa, é possível rodar o projeto em desenvolvimento dentro do Docker. Para isso, rode na pasta raíz do projeto o seguinte comando:
+
+`docker-compose up`
+
+A partir daí, toda as alterações feitas poderão ser vistas em tempo real 
+
