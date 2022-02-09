@@ -33,5 +33,4 @@ Como alternativa, é possível rodar o projeto em desenvolvimento dentro do Dock
 
 `docker-compose up`
 
-A partir daí, toda as alterações feitas poderão ser vistas em tempo real 
-
+Para rodar a aplicação vendo as alterações sendo realizadas em tempo real.
